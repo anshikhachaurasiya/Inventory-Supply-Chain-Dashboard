@@ -57,7 +57,8 @@ A good dashboard isn't just about attractive visuals — it should turn operatio
 1. Clone this repository
 2. Open `Inventory_and_SCM.pbix` in Power BI Desktop
 3. Use the Region and Category slicers to filter the dashboard by segment
-4. And below is the dashboard picture.
+4. And below is the dashboard .
+<img width="377" height="235" alt="Screenshot 2026-09-17 013359" src="https://github.com/user-attachments/assets/fcdc00f2-f936-4bb3-b279-0cf624dc35fb" />
 
    
 ## 👩‍💻 Author
