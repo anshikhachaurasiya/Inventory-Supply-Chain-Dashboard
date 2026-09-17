@@ -1,4 +1,4 @@
-# Inventory & Supply Chain Dashboard
+# Inventory & Supply Chain Dashboard.
 
 A good dashboard isn't just about attractive visuals — it should turn operational noise into clear action. This project brings scattered supply-chain data into one interactive view so decision-makers can spot bottlenecks, track inventory health, and know exactly where attention is needed.
 
