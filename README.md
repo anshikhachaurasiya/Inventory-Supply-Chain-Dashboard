@@ -6,7 +6,7 @@ A good dashboard isn't just about attractive visuals — it should turn operatio
 
 - **Warehouse Utilization:** 34.08%
 - **Days Sales of Inventory (DSI):** 15.56 days
-- **Inventory Turnover:** 23.47
+- **Inventory Turnover:** 23.47.
 - **Backorders:** 838 Fulfilled | 248 Pending | 114 Cancelled
 - Transportation cost analysis by Region & Category
 - Units sold trend across years
